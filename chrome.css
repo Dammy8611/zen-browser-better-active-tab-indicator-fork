@@ -2,7 +2,7 @@
     position: relative;
 }
 
-.tab-background[selected='']::after {
+.tab-background[selected='']::before {
     content: '';
     position: absolute;
     top: 0px;
